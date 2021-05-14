@@ -10,6 +10,4 @@ Few things about me:
 - 🤔 I’m a non-stop learner, it's because there are more programming languages than people in the world!😄;
 - 💬 Ask me about Rails
 - 📫 How to reach me: andreguia@hotmail.com
-- ⚡ Fun fact: I play flute and I'm in love with Bach's sonatas; 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreltaraujo&show_icons=true&count_private=true)
+- ⚡ Fun fact: I play flute and I'm in love with Bach's sonatas;
