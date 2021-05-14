@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**andreltaraujo/andreltaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is André Araujo (@andreltaraujo)**
 
-Here are some ideas to get you started:
+Few things about me:
 
-- 🔭 I’m currently working @Pitzi
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working @Pitzi;
+- 🌱 I’m currently learning React;
+- 👯 I’m looking to collaborate on OpenSource projects;
+- 🤔 I’m a non-stop learner, it's because there are more programming languages than people in the world!😄;
+- 💬 Ask me about Rails
+- 📫 How to reach me: andreguia@hotmail.com
+- ⚡ Fun fact: I play flute and I'm in love with Bach's sonatas; 
+
