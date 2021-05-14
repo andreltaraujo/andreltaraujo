@@ -12,3 +12,4 @@ Few things about me:
 - 📫 How to reach me: andreguia@hotmail.com
 - ⚡ Fun fact: I play flute and I'm in love with Bach's sonatas; 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreltaraujo&show_icons=true&count_private=true)
